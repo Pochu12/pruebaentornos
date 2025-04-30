@@ -1,0 +1,14 @@
+package entornos;
+
+public class Main {
+
+	public static void main(String[] args) {
+		rectangulo rectangulo1 = new rectangulo(1,"nombre");
+		rectangulo rectangulo2 = new rectangulo(1,"nombre");
+		rectangulo rectangulo3 = new rectangulo(1,"nombre");
+		rectangulo rectangulo4 = new rectangulo(1,"nombre");
+		
+		
+
+	}
+}
